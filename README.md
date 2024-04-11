@@ -1,3 +1,2 @@
 # Mambo
-Hello
-I'm a senior
+HellO WORLD
